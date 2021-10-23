@@ -1,16 +1,6 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
-import { Phantom } from "./AssetsComponent";
-
-// function classNames(...classes) {
-//   return classes.filter(Boolean).join(' ')
-// }
-
-// classNames(
-//   active ? 'bg-gray-100 text-gray-900' : 'text-gray-700',
-//   'block px-4 py-2 text-sm'
-// )
 
 function ConnectWallet() {
   return (
